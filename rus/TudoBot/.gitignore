@@ -1,0 +1,44 @@
+# Python кэш и байт-код
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Виртуальное окружение
+
+venv/
+env/
+.venv/
+ENV/
+
+
+# Конфигурационные файлы среды
+
+.env
+*.env
+
+
+# Логи
+
+*.log
+
+
+# SQLite файлы базы данных
+
+*.db
+
+
+# IDE и редакторы
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+
+# Системные файлы
+
+.DS_Store
+Thumbs.db
